@@ -1,3 +1,3 @@
 # Fonts
 
-- bestfonts.com/font
+- https://bestfonts.com/font
